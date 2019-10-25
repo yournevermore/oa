@@ -14,3 +14,6 @@ fix bug
 local hello
 github ok
 good morning
+hahah this is a test
+wo ai ni zhong guo.
+======================
